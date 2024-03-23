@@ -160,4 +160,4 @@ while True:
 
     continue
 
-cv2.destroyAllWindows()   can you optimize this code that detects coloured blobs that are moving so that it will run faster?
+cv2.destroyAllWindows()
